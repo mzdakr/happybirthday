@@ -5,7 +5,7 @@
  50   FOR Y=0 TO 15
  60    X = INT(RND(1) +16)
  70    LOCATE X,Y
- 80    PRINT"OpenSource  Cafe!"
+ 80    PRINT"PAX Coworking!"
  90    FOR W=0 TO 200
 100    NEXT W
 110    LOCATE X, Y
